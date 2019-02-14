@@ -21,4 +21,6 @@ class TestCharacter(CharacterEntity):
                     y1 = y
         self.move(1,0)
         print(x1, y1)
+        print("Did this work")
         pass
+    
